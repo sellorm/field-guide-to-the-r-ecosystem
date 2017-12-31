@@ -1,0 +1,6 @@
+.Rhistory
+.Rproj.user
+.git
+.RData
+_book
+_build.sh
