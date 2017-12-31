@@ -22,13 +22,13 @@ Often, the results of such interactive use will make their way into a report or 
 
 ## Non-Interactive Use
 
-Sometimes called “unattended” or “batch” use, this differs from the exploratory use described in the previous section. Batch use is the opposite; R commands written into a script file can be run against a dataset to produce a defined output, such as a chart or another dataset which contains the results of the analysis. Such scripts are designed to be repeatable and will often have the additional rigor and robustness written into them that one would expect from any other programming language, this makes this mode of operation a good fit for 'production' use cases.
+Sometimes called “unattended” or “batch” use, this differs from the exploratory use described in the previous section. Batch use is the opposite; R commands written into a script file can be run against a dataset to produce a defined output, such as a chart or another dataset which contains the results of the analysis. Such scripts are designed to be repeatable and will often have the additional rigour and robustness written into them that one would expect from any other programming language, this makes this mode of operation a good fit for 'production' use cases.
 
 The batch way of using R usually involves the invoking of a pre-written script either manually or automatically, perhaps triggered at a particular time or by a specific event. It is also generally the mode of operation that is used when writing code to run on High Performance Compute (HPC) clusters for complex simulations.
 
 ## Input Data Sources
 
-All manner of input sources are supported within R - the most common being flat files of some sort, like plain text, JSON, Excel or CSV files, or databases such as SQL Server, Oracle, or MySQL. It is also possible to connect R to Spark clusters or use it to drive Hadoop jobs. If that weren’t enough, additional packages will let you work perform web scraping, or work directly with web APIs and pull data in that way.
+All manner of input sources are supported within R - the most common being flat files of some sort, like plain text, JSON, Excel or CSV files, or databases such as SQL Server, Oracle, or MySQL. It is also possible to connect R to Spark clusters or use it to drive Hadoop jobs. If that weren't enough, additional packages will let you work perform web scraping, or work directly with web APIs and pull data in that way.
 
 ## R Inside Databases
 
@@ -40,12 +40,12 @@ Vendors with versions of R that run inside the database include, Oracle (with Or
 
 ## Commercial Versions of R
 
-The open-source version of R -- licensed under the GPL -- is heavily used in commercial and government environments. Companies like Google, Walmart and Amazon all use R to generate insights that can help drive business. Government departments around the world use R to provide valuable insight into some of the most pressing problems in todays' society. Despite the success of open-source R, there are several commercial distributions available, each targeting a different need. 
+The open-source version of R -- licensed under the GPL -- is heavily used in commercial and government environments. Companies like Google, Walmart and Amazon all use R to generate insights that can help drive business. Government departments around the world use R to provide valuable insight into some of the most pressing problems in today's' society. Despite the success of open-source R, there are several commercial distributions available, each targeting a different need. 
 
-Microsoft have “Microsoft ML Server”, which incorporates their own R distribution. This version of R is compiled using the commercial Intel “Math Kernel Libraries”, which claim improved performance when compared to the open-source maths libraries generally used. It also ships with additional proprietary extension libraries and is well integrated in the Microsoft ecosystem. This distribution aims to provide faster results and work better with larger datasets.
+Microsoft have [“Microsoft ML Server”](https://docs.microsoft.com/en-us/machine-learning-server/what-is-machine-learning-server), which incorporates their own R distribution. This version of R is compiled using the commercial Intel “Math Kernel Libraries”, which claim improved performance when compared to the open-source maths libraries generally used. It also ships with additional proprietary extension libraries and is well integrated in the Microsoft ecosystem. This distribution aims to provide faster results and work better with larger datasets.
 
-If you work in a heavily regulated industry, Mango Solutions offers an extensively validated build of R, called ValidR. This is distribution of open-source R that has had thorough and rigorous additional testing applied to it.
+If you work in a heavily regulated industry, [Mango Solutions](https://www.mango-solutions.com/) offers an extensively validated build of R, called [ValidR](https://www.mango-solutions.com/data-science/products/valid-r/). This is distribution of open-source R that has had thorough and rigorous additional testing applied to it.
 
-Tibco, makers of the Spotfire analytics product, has a product called TERR (Tibco Enterprise Runtime for R) which is an alternative implementation of the R interpreter, designed with improved speed in mind.
+[TIBCO](https://www.tibco.com/), makers of the Spotfire analytics product, has a product called [TERR (TIBCO Enterprise Runtime for R)](https://community.tibco.com/products/terr) which is an alternative, non-GPL implementation of the R interpreter, designed with improved speed in mind. It is embedded in several TIBCO products, including Spotfire.
 
-These —along with the in-database versions of R mentioned above— are the commercial versions you’ll most likely encounter in the field, though none is in as widespread use as the official open-source version.
+These -- along with the in-database versions of R mentioned above -- are the commercial versions you’ll most likely encounter in the field, though none is in as widespread use as the official open-source version.
