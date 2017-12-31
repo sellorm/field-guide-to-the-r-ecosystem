@@ -16,7 +16,7 @@ The IDE is available in both open-source and commercial versions and works on Ma
 
 [Visual Studio](https://visualstudio.com) is a powerful IDE with a long history and has recently had the R treatment too. There is an option in later versions to install “R Tools for Visual Studio”, which installs all the features you’d expect for working with R. In addition, it also has the ability to connect directly to a remotely running R session on a SQL Server 2017 or above, which means it can be used to drive sessions on much more powerful hardware than is usual for an end user computing device. 
 
-Visual Studio is only available for Windows and commercial use required a commercial license.
+Visual Studio is available for Windows and MacOS, and is available in community and commercial versions. For licensing information please check the website for more details.
 
 ### Jupyter
 
