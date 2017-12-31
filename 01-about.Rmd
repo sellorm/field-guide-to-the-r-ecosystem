@@ -1,0 +1,21 @@
+# About this Guide {#about} 
+
+This field guide aims to introduce the reader to the to the main components of the R ecosystem that may be encountered in “the field”. It is not intended to be an exhaustive description of everything that you might encounter, but rather an overview of the main features and an approachable introduction to the topic.
+
+## Who is this guide for?
+
+This guide is intentionally aimed at a very broad and general audience. No prior knowledge is assumed and it is hoped that the guide will be useful for anyone approaching R for the first time, and looking to get a high level overview of the ecosystem at large.
+
+## What is this guide not?
+
+If you want to learn to program in R, or write a package or an API, there are many great resources for that already; some of which will be referenced here. Reading this document will not make you an R guru, nor will it help you land you that dream job. 
+
+## Feedback
+
+If you spot an error in the guide, please let me know. Worse still, if there’s something in here that you still find confusing, or that requires additional clarity, then the guide has failed and I’d really like to fix that for you and future readers.
+
+## Why write the guide?
+
+In my day job at Mango Solutions, I talk to people about R all the time. Lots of those people are experienced R users and members of the wider R community. However, a great many of them are approaching R for the first time. Perhaps they’re developers looking to switch to a career in Data Science. Often, they’re IT Operations teams, tasked with providing R based compute environments to a Data Science team. Maybe they’re managers or executives looking to provide an advanced analytics capability within their organisation or provide their staff with the tools they need to provide new and exciting insights. 
+
+Whatever the reason, whilst there is a wealth of in-depth information for people actually using the language, I could find precious little information that provided the sort of overview of the ecosystem that I know I’d have appreciated when I first came to the language. And with that thought, a field guide is born…

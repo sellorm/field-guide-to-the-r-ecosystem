@@ -1,0 +1,22 @@
+# Community
+
+One of the many strengths of the R language, and a really compelling argument for its use --beyond the usual technical merits-- is the community that has grown up around it. With such a diverse, welcoming and helpful community, it’s easy to understand how people are drawn in.
+
+## Conferences and User Groups
+
+The R Foundation holds an annual conference called [‘useR!’](https://www.r-project.org/conferences.html), which generally alternates between Europe and the US and this has become the focal point of the R user community’s annual calendar. UseR! is aimed at all R users, bringing together those from academia as well as industry.
+
+There are also more specialist conferences aimed at R users; for example [EARL](https://earlconf.com) (Enterprise Applications of the R Language), which focuses on commercial usage of the language, and [rstudio::conf](https://rstudio.com/conf) which is aimed specifically at users of the packages and tools produced by RStudio.
+
+At the local level there are hundreds of R user groups around the world, from London to Manila. Chances are, that if you’re in a moderately large city, there will already be a user group meeting in your area. Have a look at [this list on the 'Jumping Rivers' site](https://jumpingrivers.github.io/meetingsR/r-user-groups.html) or check [meetup.com](https://meetup.com) for more information. There is also a world-wide network of [R-Ladies](http://rladies.org/) groups that aim to promote gender diversity in the R community.
+
+## Where Can You Find the R Community Online?
+
+There are a number of places online where the community comes together: 
+
+* The R-Project run several mailing lists for announcements and help. 
+* Many R users are also active on twitter and use the [#rstats hashtag](https://twitter.com/hashtag/rstats). 
+* RStudio has a community forum site at https://community.rstudio.com, which is great for help with RStudio products and packages. 
+* R users are also active on developer help site stackoverflow https://stackoverflow.com/questions/tagged/r
+* The [R-Bloggers website](https://www.r-bloggers.com/) aggregates articles written by the R community into a single site.
+* [R Weekly](https://rweekly.org/) is a community curated news site for R users.

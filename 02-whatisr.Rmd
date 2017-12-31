@@ -1,0 +1,49 @@
+# What is R? {#whatisr}
+
+R is an open-source programming language. A scripting language, in that it is not compiled but rather executed either interactively or by an interpreter from commands saved in text files, or “scripts”. This makes it similar to programming languages like Python or Ruby.
+
+R differs from those languages however, is in its primary use case. Though R is becoming increasingly general-purpose, it was originally conceived as an open-source replacement for the statistical programming language, S. As such, R is first and foremost a statistical programming language and, as a result, is widely used in academic data science and statistics programmes around the world.
+
+Growing out from its academic roots, R is now often considered the ‘lingua franca’ of data, and is in widespread use across major industry and governments around the world. R is well-suited to processing and analysing data, and features a graphics system that is capable of producing print quality charts with relative ease.
+
+The ongoing development of the R language is governed by the not-for-profit R Foundation, which was founded by members of the core R development team
+
+## Target environments
+
+R is available pre-compiled for Windows, MacOS and some Linux distributions. In addition, as an open-source language, the source code is available for inspection or compilation for other platforms.
+
+## Interactive Use
+
+One of the most common ways for people to use R is interactively. R users will often conduct what is referred to as “Exploratory Data Analysis” (EDA) in this manner. During EDA, one or more datasets are loaded into R and the user literally “explores” the data; cutting it up or combining it in different ways, running analyses and experiments, and producing charts to get a feel for the types of insights they derive from it.
+
+Often, the results of such interactive use will make their way into a report or presentation or, in some other way, contribute to informed decision making within the user’s organisation.
+
+## Non-Interactive Use
+
+Sometimes called “unattended” or “batch” use, this differs from the exploratory use described in the previous section. Batch use is the opposite; R commands written into a script file can be run against a dataset to produce a defined output, such as a chart or another dataset,  which contains the results of the analysis. Such scripts are designed to be repeatable and will often have the additional rigor and robustness written into them that one would expect from any other programming language.
+
+The batch way of using R usually involves the invoking of a pre-written script either manually or automatically, perhaps triggered at a particular time or by a specific event. It is also generally the mode of operation that is used when writing code to run on High Performance Compute (HPC) clusters for complex simulations.
+
+## Input Data Sources
+
+All manner of input sources are supported within R - the most common being flat files of some sort, like plain text, JSON, Excel or CSV files, or databases such as SQL Server, Oracle, or MySQL. It is also possible to connect R to Spark clusters or use it to drive Hadoop jobs. If that weren’t enough, there are even extension packages that will let you work directly with web APIs and pull data in that way.
+
+## R Inside Databases
+
+Given the huge surge in interest in R over the last decade, it is perhaps not surprising that several database vendors have sought to embed the analytical power of R within the database itself. This usually works in a similar way to a database stored procedure. It is a piece of code, stored within the database, that when run produces an output, which is itself generally another dataset. For example, you could create a stored procedure in R to fit a linear model against data in the database that returned the outputs of the model when run. This returned data could then be either stored inside the database itself, or displayed to an end user.
+
+There are several benefits to running R inside the database, not least of which is that doing so removes the need to move any data over the network beyond the result set, which may be very small. The entire analysis, including the data storage, is done in situ and, as such, the expensive potential bottleneck of moving the data across the network to be processed is removed. Databases are also often hosted on powerful hardware, which means analyses that are not possible on smaller systems suddenly become possible.
+
+Vendors with versions of R that run inside the database include, Oracle (with Oracle R Enterprise, or ORE), Microsoft (with R Services for SQL Server) and Teradata (with Aster R).
+
+## Commercial Versions of R
+
+Though R is an open-source language —licensed under the GPL— there are several commercial distributions available, each filling a different need. 
+
+Microsoft have “Microsoft ML Server”, which incorporates their own R distribution. This version of R is compiled using the commercial Intel “Math Kernel Libraries”, which claim improved performance when compared to the open-source compilers generally used. It also ships with additional proprietary extension libraries and is well integrated in the Microsoft ecosystem. This distribution aims to provide faster results and work better with larger datasets.
+
+If you work in a heavily regulated industry, Mango Solutions offers an extensively validated build of R, called ValidR. This is distribution of open-source R that has had thorough and rigorous additional testing applied to it.
+
+Tibco, makers of the Spotfire analytics product, has a product called TERR (Tibco Enterprise Runtime for R) which is an alternative implementation of the R interpreter, designed with improved speed in mind.
+
+These —along with the in-database versions of R mentioned above— are the commercial versions you’ll most likely encounter in the field, though none is in as widespread use as the official open-source version.
