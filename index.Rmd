@@ -7,8 +7,10 @@ output: bookdown::gitbook
 documentclass: book
 biblio-style: apalike
 link-citations: yes
-github-repo: sellorm/field_guide_to_the_r_ecosystem
+github-repo: sellorm/field-guide-to-the-r-ecosystem
 description: "This guide aims to introduce the reader to the main elements of the R ecosystem."
+url: "http://fg2re.sellorm.com"
+cover-image: "cover.png""
 ---
 
 # {-}
