@@ -1,5 +1,7 @@
 # Field Guide to the R Ecosystem
 
+[![Build Status](https://travis-ci.org/sellorm/field-guide-to-the-r-ecosystem.svg?branch=master)](https://travis-ci.org/sellorm/field-guide-to-the-r-ecosystem)
+
 This guide aims to introduce the reader to the main features of the R ecosystem.
 
 Go to the [field guide website](http://fg2re.sellorm.com).
