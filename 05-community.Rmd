@@ -14,7 +14,7 @@ At the local level there are hundreds of R user groups around the world, from Lo
 
 There are a number of places online where the community comes together: 
 
-* The R-Project run several mailing lists for announcements and help. 
+* The R-Project run several [mailing lists](https://www.r-project.org/mail.html) for announcements and help. 
 * Many R users are also active on twitter and use the [#rstats hashtag](https://twitter.com/hashtag/rstats). 
 * RStudio has a community forum site at https://community.rstudio.com, which is great for help with RStudio products and packages. 
 * R users are also active on developer help site stackoverflow https://stackoverflow.com/questions/tagged/r
