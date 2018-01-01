@@ -12,7 +12,7 @@ At the local level there are hundreds of R user groups around the world, from Lo
 
 ## Where Can You Find the R Community Online?
 
-There are a number of places on-line where the community comes together: 
+There are a number of places online where the community comes together: 
 
 * The R-Project run several [mailing lists](https://www.r-project.org/mail.html) for announcements and help. 
 * Many R users are also active on twitter and use the [#rstats hashtag](https://twitter.com/hashtag/rstats). 

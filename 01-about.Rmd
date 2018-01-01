@@ -14,6 +14,8 @@ If you want to learn to program in R, or write a package or an API, there are ma
 
 If you spot an error in the guide, please let me know. Worse still, if there’s something in here that you still find confusing, or that requires additional clarity, then the guide has failed and I’d really like to fix that for you and future readers.
 
+The guide itself is written in plaintext and assembled into this website by an R package called [bookdown](https://github.com/rstudio/bookdown). The content and configuration files are [stored on GitHub](https://github.com/sellorm/field-guide-to-the-r-ecosystem) and each page contains an 'Edit' link at the top which links to the corresponding file on Github. Alternatively, you can contact [me on twitter](https://twitter.com/sellorm) or send an email to [fieldguide@5vcc.com](mailto:fieldguide@5vcc.com?Subject=Field%20Guide%20to%20the%20R%20Ecosystem).
+
 ## Why write the guide?
 
 In my day job at Mango Solutions, I talk to people about R all the time. Lots of those people are experienced R users and members of the wider R community. However, a great many of them are approaching R for the first time. Perhaps they’re developers looking to switch to a career in Data Science. Often, they’re IT Operations teams, tasked with providing R based compute environments to a Data Science team. Maybe they’re managers or executives looking to provide an advanced analytics capability within their organisation or provide their staff with the tools they need to provide new and exciting insights. 
