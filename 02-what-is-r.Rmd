@@ -2,9 +2,9 @@
 
 R is an open-source programming language. It is run either interactively or by an interpreter from commands saved in text files, or “scripts”. This makes it similar to programming languages like Python or Ruby.
 
-R differs from those languages however, is in its primary use case. Though R is becoming increasingly general-purpose, it was originally conceived as an open-source replacement for the statistical programming language S. As such, R is first and foremost a statistical programming language and, as a result, is widely used in academic data science and statistics programmes around the world.
+However, R differs from those languages in its primary use case. Though R is becoming increasingly general-purpose, it was originally conceived as an open-source replacement for the statistical programming language 'S'. As such, R is first and foremost a statistical programming language and, as a result, is widely used in academic data science and statistics programmes around the world.
 
-Growing out from its academic roots, R is now often considered the ‘lingua franca’ of data, and is in widespread use across major industry and governments around the world. R is well-suited to processing and analysing data, and features a graphics system that is capable of producing print quality charts with relative ease.
+Growing out from its academic roots, R is now often considered the ‘lingua franca’ of data, and is in widespread use across major industries and governments around the world. R is well-suited to processing and analysing data, and features a graphics system that is capable of producing print quality charts with relative ease.
 
 The ongoing development of the R language is governed by the not-for-profit [R Foundation](https://www.r-project.org/foundation/), which was founded by members of the core R development team.
 
