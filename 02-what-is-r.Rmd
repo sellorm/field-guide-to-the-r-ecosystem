@@ -2,7 +2,7 @@
 
 R is an open-source programming language. It is run either interactively or by an interpreter from commands saved in text files, or “scripts”. This makes it similar to programming languages like Python or Ruby.
 
-However, R differs from those languages in its primary use case. Though R is becoming increasingly general-purpose, it was originally conceived as an open-source replacement for the statistical programming language, S. As such, R is first and foremost a statistical programming language and, as a result, is widely used in academic data science and statistics programmes around the world.
+However, R differs from those languages in its primary use case. Though R is becoming increasingly general-purpose, it was originally conceived as an open-source replacement for the statistical programming language 'S'. As such, R is first and foremost a statistical programming language and, as a result, is widely used in academic data science and statistics programmes around the world.
 
 Growing out from its academic roots, R is now often considered the ‘lingua franca’ of data, and is in widespread use across major industries and governments around the world. R is well-suited to processing and analysing data, and features a graphics system that is capable of producing print quality charts with relative ease.
 
@@ -40,9 +40,9 @@ Vendors with versions of R that run inside the database include, Oracle (with Or
 
 ## Commercial Versions of R
 
-The open-source version of R -- licensed under the GPL -- is heavily used in commercial and government environments. Companies like Google, Walmart and Amazon all use R to generate insights that can help drive business. Government departments around the world use R to provide valuable insight into some of the most pressing problems in today's' society. Despite the success of open-source R, there are several commercial distributions available, each targeting a different need. 
+The open-source version of R -- licensed under the GPL -- is heavily used in commercial and government environments. Companies like Google, Walmart and Amazon all use R to generate insights that can help drive business. Government departments around the world use R to provide valuable insight into some of the most pressing problems in today's society. Despite the success of open-source R, there are several commercial distributions available, each targeting a different need. 
 
-Microsoft have [“Microsoft ML Server”](https://docs.microsoft.com/en-us/machine-learning-server/what-is-machine-learning-server), which incorporates their own R distribution. This version of R is compiled using the commercial Intel “Math Kernel Libraries”, which claim improved performance when compared to the open-source maths libraries generally used. It also ships with additional proprietary extension libraries and is well integrated in the Microsoft ecosystem. This distribution aims to provide faster results and work better with larger datasets.
+Microsoft has [“Microsoft ML Server”](https://docs.microsoft.com/en-us/machine-learning-server/what-is-machine-learning-server), which incorporates their own R distribution. This version of R is compiled using the commercial Intel “Math Kernel Libraries”, which claim improved performance when compared to the open-source maths libraries generally used. It also ships with additional proprietary extension libraries and is well integrated in the Microsoft ecosystem. This distribution aims to provide faster results and work better with larger datasets.
 
 If you work in a heavily regulated industry, [Mango Solutions](https://www.mango-solutions.com/) offers an extensively validated build of R, called [ValidR](https://www.mango-solutions.com/data-science/products/valid-r/). This is distribution of open-source R that has had thorough and rigorous additional testing applied to it.
 
