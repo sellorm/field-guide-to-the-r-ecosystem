@@ -2,7 +2,7 @@
 
 ## Extension Packages and CRAN
 
-The vast array of add-on packages that extend the functionality of the R language, are one of the biggest draws for new users. The R Project has several groups working within it, one of which is the 'CRAN Repository Maintainers', who run [CRAN](https://cran.r-project.org) - or the “Comprehensive R Archive Network”. CRAN is the place where R users go to obtain these additional packages.
+The vast array of add-on packages that extend the functionality of the R language are one of the biggest draws for new users. The R Project has several groups working within it, one of which is the 'CRAN Repository Maintainers', who run [CRAN](https://cran.r-project.org) - or the “Comprehensive R Archive Network”. CRAN is the place where R users go to obtain these additional packages.
 
 The CRAN website currently contains more than 12,000 packages for R. These packages are submitted by the user community and then extensively checked for common problems before being published to the website. R itself contains a tool to download any packages that a user might require and install them ready for use. Such packages may extend R in a variety of ways: from adding new data processing algorithms to providing access to public datasets, or from providing R users a way to build their own web APIs to providing simple functions to interact with existing public APIs. The options are huge.
 
@@ -12,7 +12,7 @@ The main CRAN site has an extensive selection of mirror sites around the world s
 
 ## Private CRAN-like systems
 
-As well as the public CRAN, it’s also possible to build a private CRAN-like system. Often organisations will use this approach to publish internal packages that contain commercially sensitive information or otherwise wouldn't make sense in public. For example, a package that combines data from your HR and Payroll systems, or a package that provides corporate branding and styles for plots and presentations, probably wouldn't be any use to anyone outside your organisation, but may be used by many people internally. Therefore, having the latest version of that package easily installable from a central place could be extremely useful to the business.
+As well as the public CRAN, it’s also possible to build a private CRAN-like system. Often organisations will use this approach to publish internal packages that contain commercially sensitive information or otherwise wouldn't make sense in public. For example, a package that combines data from your HR and Payroll systems, or a package that provides corporate branding and styles for plots and presentations, probably wouldn't be of any use to anyone outside your organisation, but may be used by many people internally. Therefore, having the latest version of that package easily installable from a central place could be extremely useful to the business.
 
 As well as publishing internal packages, a private CRAN-like system can also be used where access to the full public CRAN is not possible. This is quite common in server-based installations of R, where the server has no access to the public internet, and therefore the public CRAN. In these situations, one option is to allow access to CRAN, but many organisations choose instead to build a smaller internal version, hosting only those packages which have been approved for use inside the organisation.
 
