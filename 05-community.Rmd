@@ -19,4 +19,4 @@ There are a number of places online where the community comes together:
 * RStudio has a community forum site at https://community.rstudio.com, which is great for help with RStudio products and packages. 
 * R users are also active on developer help site stackoverflow https://stackoverflow.com/questions/tagged/r
 * The [R-Bloggers website](https://www.r-bloggers.com/) aggregates articles written by the R community into a single site.
-* [R Weekly](https://rweekly.org/) is a community curated news site for R users.
+* [R Weekly](https://rweekly.org/) is a community curated news site for R users with a weekly newsletter. Anyone can suggest new R-related content for the next issue, either [through the site](https://rweekly.org/submit), or [via GitHub](https://github.com/rweekly/rweekly.org/).
