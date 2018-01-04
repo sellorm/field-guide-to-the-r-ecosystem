@@ -1,6 +1,6 @@
 # About this Guide {#about} 
 
-This field guide aims to introduce the reader to the to the main components of the R ecosystem that may be encountered in “the field”. It is not intended to be an exhaustive description of everything that you might encounter, but rather an overview of the main features and an approachable introduction to the topic.
+This field guide aims to introduce the reader to the main components of the R ecosystem that may be encountered in “the field”. It is not intended to be an exhaustive description of everything that you might encounter, but rather an overview of the main features and an approachable introduction to the topic.
 
 ## Who is this guide for?
 
