@@ -4,7 +4,7 @@ One of the many strengths of the R language, and a really compelling argument fo
 
 ## Conferences and User Groups
 
-The R Foundation holds an annual conference called [‘useR!’](https://www.r-project.org/conferences.html), which generally alternates between Europe and the US and this has become the focal point of the R user community’s annual calendar. UseR! is aimed at all R users, bringing together those from academia as well as industry.
+The R Foundation holds an annual conference called [‘useR!’](https://www.r-project.org/conferences.html), which generally alternates between Europe and the US and this has become the focal point of the R user community’s annual calendar. UseR! is aimed at all R users, bringing together those from academia as well as industry. When the useR! conference is hosted outside of Europe, the European R Users Meeting, called [‘eRum‘](https://erum.io/) is organized to allow more european R users to participate in a yearly conference.
 
 There are also more specialist conferences aimed at R users; for example [EARL](https://earlconf.com) (Enterprise Applications of the R Language), which focuses on commercial usage of the language, and [rstudio::conf](https://rstudio.com/conf) which is aimed specifically at users of the packages and tools produced by RStudio.
 
