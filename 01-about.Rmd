@@ -8,7 +8,7 @@ This guide is intentionally aimed at a very broad and general audience. No prior
 
 ## What is this guide not?
 
-If you want to learn to program in R, or write a package or an API, there are many great resources for that already; some of which will be referenced here. Reading this document will not make you an R guru, nor will it help you land you that dream job. 
+If you want to learn to program in R, or write a package or an API, there are many great resources for that already; some of which will be referenced here. Reading this document will not make you an R guru, nor will it help you land that dream job. 
 
 ## Feedback
 
