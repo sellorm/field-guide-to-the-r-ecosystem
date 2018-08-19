@@ -1,1 +1,2 @@
 _includes/* linguist-vendored
+*.Rmd linguist-langauge=R
