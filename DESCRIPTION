@@ -1,6 +1,6 @@
 Package: fg2re
 Title: Field Guide to the R Ecosystem.
-Version: 0.1
+Version: 0.1.0.9000
 Authors@R: c(
   person("Mark", "Sellors", , "github@5vcc.com", c("aut", "cre")),
   )
